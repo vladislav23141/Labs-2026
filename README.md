@@ -13,3 +13,9 @@
 | Л.Р. 5 | Подготовить презентацию не менее 5 слайдов с использованием пакета beamer | [Lab5](https://github.com/vladislav23141/Labs-2026/blob/main/Laboratornaya_rabota_5_Osnovy_inf_tekhnologiy.pdf) |
 | Л.Р. 6 | Создать дашборд, который отвечал бы на поставленные вопросы | [Lab6](https://github.com/vladislav23141/Labs-2026/blob/main/Laboratornaya_rabota_6_EGE.doc) |
 | Л.Р. 8 | Организовать публичное хранилище для  лабораторных работ по предмету | в процессе |
+
+
+
+## Список работ
+
+| [готовые работы](https://github.com/vladislav23141/Labs-2026/blob/main/finished_works.zip) | статус выполнения: в процессе... |
