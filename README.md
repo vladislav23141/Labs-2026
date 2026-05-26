@@ -16,6 +16,6 @@
 
 
 
-## Список работ
+## статус выполнения: в процессе...
 
-| [готовые работы](https://github.com/vladislav23141/Labs-2026/blob/main/finished_works.zip) | статус выполнения: в процессе... |
+| [готовые работы](https://github.com/vladislav23141/Labs-2026/blob/main/finished_works.zip) |
